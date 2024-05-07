@@ -34,11 +34,10 @@ Montenegro,7.8,6.8,Male,Youth,Primary
 North Macedonia,6.7,5.7,Male,Youth,Primary
 Albania,6,5.5,Male,Youth,Primary
 Serbia,6.9,5.5,Male,Youth,Primary
-Türkiye,6.2,2.7,Male,Youth,Primary
-Kosovo*,6.4,5.7,Male,Youth,Primary
+Turkiye,6.2,2.7,Male,Youth,Primary
+Kosovo,6.4,5.7,Male,Youth,Primary
 Belgium,7.1,4.8,Male,Adult,Primary
 Bulgaria,4.2,4.1,Male,Adult,Primary
-Czechia,5.8,4.3,Male,Adult,Primary
 Czechia,5.8,4.3,Male,Adult,Primary
 Estonia,6.5,5.2,Male,Adult,Primary
 Greece,5.9,3.7,Male,Adult,Primary
@@ -67,8 +66,8 @@ Montenegro,5.1,4.6,Male,Adult,Primary
 North Macedonia,5.1,5.3,Male,Adult,Primary
 Albania,5.1,4.9,Male,Adult,Primary
 Serbia,4.7,5,Male,Adult,Primary
-Türkiye,5.3,2.6,Male,Adult,Primary
-Kosovo*,4.8,5,Male,Adult,Primary
+Turkiye,5.3,2.6,Male,Adult,Primary
+Kosovo,4.8,5,Male,Adult,Primary
 Belgium,7.2,5.9,Male,Senior,Primary
 Bulgaria,4,4.2,Male,Senior,Primary
 Czechia,6.2,4.3,Male,Senior,Primary
@@ -104,8 +103,8 @@ Montenegro,4.7,5,Male,Senior,Primary
 North Macedonia,5.2,5.1,Male,Senior,Primary
 Albania,5.1,5.1,Male,Senior,Primary
 Serbia,4.7,4.3,Male,Senior,Primary
-Türkiye,5.6,2.8,Male,Senior,Primary
-Kosovo*,4.9,4.8,Male,Senior,Primary
+Turkiye,5.6,2.8,Male,Senior,Primary
+Kosovo,4.9,4.8,Male,Senior,Primary
 Belgium,7.8,6.1,Female,Youth,Primary
 Bulgaria,6.2,5,Female,Youth,Primary
 Czechia,8.2,5.2,Female,Youth,Primary
@@ -141,8 +140,8 @@ Montenegro,7.3,6.8,Female,Youth,Primary
 North Macedonia,7,6,Female,Youth,Primary
 Albania,6.1,5.5,Female,Youth,Primary
 Serbia,7.1,5.9,Female,Youth,Primary
-Türkiye,6.1,2.3,Female,Youth,Primary
-Kosovo*,6.1,5.4,Female,Youth,Primary
+Turkiye,6.1,2.3,Female,Youth,Primary
+Kosovo,6.1,5.4,Female,Youth,Primary
 Belgium,7,4.7,Female,Adult,Primary
 Bulgaria,4.2,4.2,Female,Adult,Primary
 Czechia,6.1,4,Female,Adult,Primary
@@ -176,8 +175,8 @@ Montenegro,5.3,5.1,Female,Adult,Primary
 North Macedonia,5.4,5.4,Female,Adult,Primary
 Albania,5.1,5,Female,Adult,Primary
 Serbia,4.7,4.5,Female,Adult,Primary
-Türkiye,5.5,2.2,Female,Adult,Primary
-Kosovo*,5.3,4.9,Female,Adult,Primary
+Turkiye,5.5,2.2,Female,Adult,Primary
+Kosovo,5.3,4.9,Female,Adult,Primary
 Belgium,7.3,6.2,Female,Senior,Primary
 Bulgaria,3.7,4,Female,Senior,Primary
 Czechia,6.5,4.1,Female,Senior,Primary
@@ -213,8 +212,8 @@ Montenegro,4.8,5.3,Female,Senior,Primary
 North Macedonia,4.9,5,Female,Senior,Primary
 Albania,4.9,5.2,Female,Senior,Primary
 Serbia,4.6,4.4,Female,Senior,Primary
-Türkiye,5.6,2.8,Female,Senior,Primary
-Kosovo*,5.1,4.9,Female,Senior,Primary
+Turkiye,5.6,2.8,Female,Senior,Primary
+Kosovo,5.1,4.9,Female,Senior,Primary
 Belgium,8.1,6.5,Male,Youth,Secondary
 Bulgaria,6.4,5.1,Male,Youth,Secondary
 Czechia,8.1,5,Male,Youth,Secondary
@@ -250,8 +249,8 @@ Montenegro,7.5,6.8,Male,Youth,Secondary
 North Macedonia,6.5,5.6,Male,Youth,Secondary
 Albania,5.8,5.3,Male,Youth,Secondary
 Serbia,6.6,5.1,Male,Youth,Secondary
-Türkiye,6.1,2.9,Male,Youth,Secondary
-Kosovo*,6.4,5.1,Male,Youth,Secondary
+Turkiye,6.1,2.9,Male,Youth,Secondary
+Kosovo,6.4,5.1,Male,Youth,Secondary
 Belgium,7.5,5.8,Male,Adult,Secondary
 Bulgaria,5.6,4.8,Male,Adult,Secondary
 Czechia,7.4,4.5,Male,Adult,Secondary
@@ -287,8 +286,8 @@ Montenegro,6.4,6,Male,Adult,Secondary
 North Macedonia,5.9,5.4,Male,Adult,Secondary
 Albania,5.7,5.2,Male,Adult,Secondary
 Serbia,5.5,4.9,Male,Adult,Secondary
-Türkiye,5.7,2.8,Male,Adult,Secondary
-Kosovo*,5.9,5.4,Male,Adult,Secondary
+Turkiye,5.7,2.8,Male,Adult,Secondary
+Kosovo,5.9,5.4,Male,Adult,Secondary
 Belgium,7.7,6.3,Male,Senior,Secondary
 Bulgaria,4.8,4,Male,Senior,Secondary
 Czechia,6.9,4.7,Male,Senior,Secondary
@@ -324,8 +323,8 @@ Montenegro,6,5.9,Male,Senior,Secondary
 North Macedonia,6,5.2,Male,Senior,Secondary
 Albania,5.3,5.3,Male,Senior,Secondary
 Serbia,5.4,4.7,Male,Senior,Secondary
-Türkiye,6.4,3.2,Male,Senior,Secondary
-Kosovo*,5.9,4.3,Male,Senior,Secondary
+Turkiye,6.4,3.2,Male,Senior,Secondary
+Kosovo,5.9,4.3,Male,Senior,Secondary
 Belgium,7.8,6.2,Female,Youth,Secondary
 Bulgaria,6.8,5.1,Female,Youth,Secondary
 Czechia,8.3,5.3,Female,Youth,Secondary
@@ -361,8 +360,8 @@ Montenegro,7.6,6.3,Female,Youth,Secondary
 North Macedonia,6.9,5.8,Female,Youth,Secondary
 Albania,5.9,5.5,Female,Youth,Secondary
 Serbia,6.9,5.3,Female,Youth,Secondary
-Türkiye,6.3,2.4,Female,Youth,Secondary
-Kosovo*,6.5,5.1,Female,Youth,Secondary
+Turkiye,6.3,2.4,Female,Youth,Secondary
+Kosovo,6.5,5.1,Female,Youth,Secondary
 Belgium,7.4,6,Female,Adult,Secondary
 Bulgaria,5.6,4.8,Female,Adult,Secondary
 Czechia,7.3,4.9,Female,Adult,Secondary
@@ -398,8 +397,8 @@ Montenegro,6.6,5.9,Female,Adult,Secondary
 North Macedonia,6.1,5.4,Female,Adult,Secondary
 Albania,5.6,5.3,Female,Adult,Secondary
 Serbia,5.5,4.8,Female,Adult,Secondary
-Türkiye,6,2.5,Female,Adult,Secondary
-Kosovo*,6.3,5.4,Female,Adult,Secondary
+Turkiye,6,2.5,Female,Adult,Secondary
+Kosovo,6.3,5.4,Female,Adult,Secondary
 Belgium,7.4,6.1,Female,Senior,Secondary
 Bulgaria,4.6,4.4,Female,Senior,Secondary
 Czechia,7,4.5,Female,Senior,Secondary
@@ -435,8 +434,8 @@ Montenegro,5.7,5.5,Female,Senior,Secondary
 North Macedonia,5.8,4.7,Female,Senior,Secondary
 Albania,5.2,5.6,Female,Senior,Secondary
 Serbia,5.6,4.8,Female,Senior,Secondary
-Türkiye,6.3,2.6,Female,Senior,Secondary
-Kosovo*,6.7,5.2,Female,Senior,Secondary
+Turkiye,6.3,2.6,Female,Senior,Secondary
+Kosovo,6.7,5.2,Female,Senior,Secondary
 Belgium,8.2,7,Male,Youth,Tertiary
 Germany,8.3,6.1,Male,Youth,Tertiary
 Estonia,7.2,5.6,Male,Youth,Tertiary
@@ -461,8 +460,8 @@ Montenegro,8,7.1,Male,Youth,Tertiary
 North Macedonia,7.2,6.4,Male,Youth,Tertiary
 Albania,6.1,5.4,Male,Youth,Tertiary
 Serbia,7.9,5.6,Male,Youth,Tertiary
-Türkiye,6,3.4,Male,Youth,Tertiary
-Kosovo*,7.1,4.9,Male,Youth,Tertiary
+Turkiye,6,3.4,Male,Youth,Tertiary
+Kosovo,7.1,4.9,Male,Youth,Tertiary
 Belgium,7.9,6.3,Male,Adult,Tertiary
 Bulgaria,6.7,4.9,Male,Adult,Tertiary
 Czechia,8.1,5,Male,Adult,Tertiary
@@ -498,8 +497,8 @@ Montenegro,7.4,6.7,Male,Adult,Tertiary
 North Macedonia,6.9,5.8,Male,Adult,Tertiary
 Albania,6.3,5.3,Male,Adult,Tertiary
 Serbia,6.5,5.2,Male,Adult,Tertiary
-Türkiye,6.1,3.5,Male,Adult,Tertiary
-Kosovo*,6.8,5.4,Male,Adult,Tertiary
+Turkiye,6.1,3.5,Male,Adult,Tertiary
+Kosovo,6.8,5.4,Male,Adult,Tertiary
 Belgium,7.9,6.5,Male,Senior,Tertiary
 Bulgaria,5.5,5,Male,Senior,Tertiary
 Czechia,7.6,4.8,Male,Senior,Tertiary
@@ -535,8 +534,8 @@ Montenegro,6.5,5.8,Male,Senior,Tertiary
 North Macedonia,6.6,5.8,Male,Senior,Tertiary
 Albania,5.6,5.2,Male,Senior,Tertiary
 Serbia,6.1,5,Male,Senior,Tertiary
-Türkiye,6.1,3.3,Male,Senior,Tertiary
-Kosovo*,6.1,4.7,Male,Senior,Tertiary
+Turkiye,6.1,3.3,Male,Senior,Tertiary
+Kosovo,6.1,4.7,Male,Senior,Tertiary
 Belgium,7.9,6.4,Female,Youth,Tertiary
 Germany,8.1,6.4,Female,Youth,Tertiary
 Estonia,8.1,6.9,Female,Youth,Tertiary
@@ -566,8 +565,8 @@ Montenegro,8,7.2,Female,Youth,Tertiary
 North Macedonia,7,5.6,Female,Youth,Tertiary
 Albania,6,5.3,Female,Youth,Tertiary
 Serbia,7.5,6.2,Female,Youth,Tertiary
-Türkiye,6.2,2.7,Female,Youth,Tertiary
-Kosovo*,7.1,5.5,Female,Youth,Tertiary
+Turkiye,6.2,2.7,Female,Youth,Tertiary
+Kosovo,7.1,5.5,Female,Youth,Tertiary
 Belgium,7.9,6.5,Female,Adult,Tertiary
 Bulgaria,6.6,5,Female,Adult,Tertiary
 Czechia,8.1,5.3,Female,Adult,Tertiary
@@ -603,8 +602,8 @@ Montenegro,7.5,6.6,Female,Adult,Tertiary
 North Macedonia,6.9,5.8,Female,Adult,Tertiary
 Albania,6.2,5.5,Female,Adult,Tertiary
 Serbia,6.5,5.2,Female,Adult,Tertiary
-Türkiye,6.1,3.1,Female,Adult,Tertiary
-Kosovo*,6.7,5,Female,Adult,Tertiary
+Turkiye,6.1,3.1,Female,Adult,Tertiary
+Kosovo,6.7,5,Female,Adult,Tertiary
 Belgium,7.9,6.6,Female,Senior,Tertiary
 Bulgaria,5.1,4.8,Female,Senior,Tertiary
 Czechia,7.4,4.6,Female,Senior,Tertiary
@@ -640,4 +639,4 @@ Montenegro,6.9,6.8,Female,Senior,Tertiary
 North Macedonia,6.3,5.4,Female,Senior,Tertiary
 Albania,5.5,5.4,Female,Senior,Tertiary
 Serbia,6.2,5.4,Female,Senior,Tertiary
-Türkiye,5.8,3.2,Female,Senior,Tertiary
+Turkiye,5.8,3.2,Female,Senior,Tertiary
